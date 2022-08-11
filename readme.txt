@@ -5,3 +5,6 @@ so that the pseudo-range reflects the actual behaviour of the receiver and satel
 
 Pseudorange definition
 The pseudorange (code) measurement is defined to be equivalent to the difference of the time of reception (expressed in the time frame of the receiver) and the time of transmission (expressed in the time frame of the satellite) of a distinct satellite signal.
+
+copy1 采用了单历元伪距定位，
+copy2 采用了多历元伪距定位。
